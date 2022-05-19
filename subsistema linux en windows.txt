@@ -1,0 +1,17 @@
+Segunda manera de instalar. para todos los demás
+
+Activa el modo de desarrollador
+Abrir configuración -> Actualización y seguridad -> Para desarrolladores
+Seleccione el botón de Modo Desarrollador
+
+
+En el buscador de windows digitamos " activar o desactivar características de windows "
+activamos la casilla " Subsistema de windows para linux " o “Windows Subsystem for Linux (Beta)”
+
+Tras esto, vamos al Microsoft Store que está en inicio
+y buscamos linux y descargamos una versión de Ubuntu o de lo que queramos.
+
+Una vez instalado, en cualquier cmd podemos teclear
+bash
+
+y aparecerá el subsistema en linux 
