@@ -1,6 +1,6 @@
 # mirepositorio
 
-Este es un ejemplo de velocidad de TPUs, GPUs, y otras hierbas
+Este es un ejemplo de velocidad de TPUs, GPUs, y otras hierbas para fumar...
 
 Un cambio
 
